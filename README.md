@@ -1,16 +1,11 @@
-# MoMTSim Project
+# MoMTSim-Library
 
-MoMTSim is a multi-agent simulation platform tailored to mobile money financial transactions from Sub-Saharan Africa (SSA) for generating synthetic financial datasets in the domain.
-Unlike related studies, we collected qualitative data from stakeholders such as Telco IT officers, Banks, Agents, Clients and Merchants to aid modelling. 
-We also obtained a sample real mobile money transactions data from one of our stakeholders in the region in order to extract statistical information for the simulations.
+MoMTSim-Library is an open-source Java software package for generating synthetic mobile money transaction datasets. The software transforms an
+agent-based simulation model from a standalone simulation application into a reusable library and executable research tool.
 
-## The MoMTSim Simulation Model
+## The Agent-Based Simulation Model
 
 ![](./model.png?raw=true)
-
-## Design Considerations for the Simulation Platform
-Our paper: **Scenario-based Synthetic Dataset Generation for Mobile Money Transactions** details the design considerations for the simulation platform and unique fraud scenarios in the Sub-saharan Context. Access here: 
-[https://doi.org/10.1145/3531056.3542774](https://doi.org/10.1145/3531056.3542774)
 
 ## Requirements
 
